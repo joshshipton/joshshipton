@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @joshshipton
-- 👀 I’m interested in python, java script and r projects
-- 🌱 I’m currently learning java-script for web development and data analysis using python and r 
-- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me email: Shiptonjosh@gmail.com, discord: Shipo #3860
 
 <!---
